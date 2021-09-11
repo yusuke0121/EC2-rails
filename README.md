@@ -7,3 +7,9 @@ Rails 6.1.3
 carrierwave  
 fog-aws  
 
+# 機能一覧
+タイトル付画像投稿(carrierwave)　　
+投稿画像削除　　
+
+
+
