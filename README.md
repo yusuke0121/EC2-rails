@@ -1,24 +1,16 @@
-# README
+# EC2-rails
+EC2上からS3へ画像投稿出来る簡易アプリを作成しました。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 使用技術
+Ruby 2.7.1  
+Rails 6.1.3  
+carrierwave  
+fog-aws  
 
-Things you may want to cover:
+# 機能一覧
+タイトル付画像投稿(carrierwave)  
+投稿一覧表示  
+投稿画像削除
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
